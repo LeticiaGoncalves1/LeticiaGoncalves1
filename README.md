@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Letícia+Gonçalves;;Estudante+Dev+Front-end;;Bem-Vindos!)](https://git.io/typing-svg)
-
 ## Cursando 🎓
-👩🏼‍💻 Sistema de Informação - Anhembi Morumbi <br>
+👩🏼‍💻 Análise e Desenvolvimento de Sistemas - Uninter <br>
 💻 HTML, CSS e JavaScript - Curso em Vídeo <br>
 🐍 Python - Curso em Vídeo <br>
 💛 JavaScript - Udemy <br>
+☕ Java - Udemy <br>
+
 
 ## Objetivo
-Desenvolvedora Front-end
+Desenvolvedora
 
 ## Conhencimentos em
 
@@ -24,10 +24,12 @@ Desenvolvedora Front-end
 
 ### Estudando no momento:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![HTML5]( 	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
