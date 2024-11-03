@@ -1,8 +1,7 @@
 ## Cursando 🎓
 👩🏼‍💻 Ciências da Computação - Uninter <br>
 💻 HTML e CSS - Alura <br>
-🐍 Python - Curso em Vídeo <br>
-☕ Java - Udemy <br>
+☕📱 Java Android - Udemy <br>
 ☕ Java POO - Udemy <br>
 
 
