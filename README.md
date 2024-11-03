@@ -14,10 +14,14 @@ Desenvolvedora
 <img align="center" alt="Le-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Le-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Le-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Le-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+<img align="center" alt="Le-MySQL" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg]">
+<img align="center" alt="Le-android" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg]">
 
 </div>
 
 ### Outros conhecimentos:
+💻 Acesso remoro <br>
 🗺️ Inglês Intermediário <br>
 🙋🏼‍♀️ Atendimento ao cliente - Certificado Fundação Bradesco<br>
 
